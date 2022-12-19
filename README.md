@@ -1,2 +1,2 @@
 # Excel_crowdfunding_analysis
-Analyzing crowdfunding data utilizing Excel.
+Analyzing crowdfunding data using Excel.
